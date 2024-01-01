@@ -3,8 +3,6 @@ import { ToastContainer, toast } from "react-toastify";
 import Sidebar from "./components/sidebar";
 import { useState } from "react";
 import { AgGridReact } from "ag-grid-react";
-import "ag-grid-community/styles/ag-grid.css";
-import "ag-grid-community/styles/ag-theme-quartz.css";
 
 enum Status {
   IDLE = "IDLE",
