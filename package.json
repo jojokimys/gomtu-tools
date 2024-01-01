@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "add": "^2.0.6",
+    "ag-grid-community": "^31.0.1",
+    "ag-grid-react": "^31.0.1",
     "binance": "^2.8.15",
     "next": "14.0.4",
     "react": "^18",
